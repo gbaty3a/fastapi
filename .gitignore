@@ -5,3 +5,5 @@ tmp
 __pycache__
 fastapigit
 myenv
+heart_test.csv
+heart_train.csv
